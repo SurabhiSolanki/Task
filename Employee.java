@@ -18,3 +18,12 @@ class Employee{
 		this.name = name;
 	}
 	
+	public static void main(String[]args){
+		 Employee e = new Employee(101,"Aman");
+		 System.out.println(e.getName());
+		  
+	}
+}
+
+
+	
